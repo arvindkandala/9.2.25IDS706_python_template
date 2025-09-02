@@ -1,0 +1,1 @@
+# 9.2.25IDS706_python_template
